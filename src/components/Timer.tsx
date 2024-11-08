@@ -55,12 +55,12 @@ export default function Timer({
     <div className={`rounded-2xl ${getBgColor()} p-8 shadow-lg`}>
       <audio
         ref={tickAudioRef}
-        src="src/components/450509__abyeditsound__clockticksound_01.wav"
+        src="./src/components/450509__abyeditsound__clockticksound_01.wav"
         loop
       />
       <audio
         ref={sessionCompleteAudioRef}
-        src="src/components/234564__foolboymedia__.wav"
+        src="./src/components/234564__foolboymedia__.wav"
       />
 
       <div className="text-center">
