@@ -55,7 +55,7 @@ export default function Timer({
     <div className={`rounded-2xl ${getBgColor()} p-8 shadow-lg`}>
       <audio
         ref={tickAudioRef}
-        src="./src/components/450509__abyeditsound__clockticksound_01.wav"
+        src="https://github.com/SaiGane5/PomoApp/raw/refs/heads/main/src/components/450509__abyeditsound__clockticksound_01.wavv"
         loop
       />
       <audio
