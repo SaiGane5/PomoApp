@@ -60,7 +60,7 @@ export default function Timer({
       />
       <audio
         ref={sessionCompleteAudioRef}
-        src="./src/components/234564__foolboymedia__.wav"
+        src="https://github.com/SaiGane5/PomoApp/raw/refs/heads/main/src/components/achieve.wav"
       />
 
       <div className="text-center">
