@@ -40,7 +40,7 @@ export default function TaskList({
 
   return (
     <div className="w-full max-w-md">
-      <audio ref={taskCompleteAudioRef} src="https://github.com/SaiGane5/PomoApp/blob/main/src/components/achieve.wav" />
+      <audio ref={taskCompleteAudioRef} src="https://github.com/SaiGane5/PomoApp/raw/refs/heads/main/src/components/achieve.wav" />
 
       <form onSubmit={handleSubmit} className="mb-4 flex gap-2">
         <input
